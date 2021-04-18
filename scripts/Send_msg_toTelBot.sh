@@ -1,7 +1,7 @@
 #!/bin/bash
 
-telegram_bot_token="xxx:xxx"
-telegram_chat_id="xxx"
+telegram_bot_token="1661978710:AAEBgWCshEBTbmc9cpGefS9vuICRELjhiiA"
+telegram_chat_id="75303718"
 
 Title="$1"
 Message="$2"
